@@ -1,0 +1,2 @@
+mkdir Journey
+cd Journey
